@@ -122,7 +122,7 @@ export function Home() {
           </a>
         </div>
         <p className="font-mono text-sm text-outline flex items-center gap-1">
-          <Info className="w-4 h-4" /> Registration details coming soon.
+          <Info className="w-4 h-4" /> PMT 2027 confirmed with Guts round!
         </p>
         <div className="flex flex-col items-center gap-2 mt-12 animate-bounce cursor-pointer opacity-60 hover:opacity-100 transition-opacity">
           <span className="font-mono text-[10px] text-white uppercase tracking-[0.2em]">See More</span>
@@ -294,7 +294,7 @@ export function Home() {
             <h2 className="font-sans font-bold text-3xl text-white mb-8 relative z-10">Event Details</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 relative z-10">
                {Object.entries({
-                 'Date': 'January [TBD]',
+                 'Date': 'January 16, 2027',
                  'Location': 'Hart Middle School',
                  'Eligibility': '8th grade and below',
                  'Registration': <span className="text-inverse-primary">Google Form coming soon</span>,
