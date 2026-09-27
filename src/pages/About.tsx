@@ -12,7 +12,7 @@ const officers = [
   { name: 'Shulin Lu', role: 'Vice-President', desc: 'N/A', img: 'SL' },
   { name: 'Isha Ramakrishna', role: 'Vice-President', desc: 'N/A', img: 'IR' },
   { name: 'Arnav Kumar', role: 'Secretary', desc: 'N/A', img: 'AK' },
-  { name: 'Taiba Hanif', role: 'Treasurer', desc: 'N/A', img: 'TH' },
+  { name: 'Austin Lin', role: 'Treasurer', desc: 'N/A', img: 'AL' },
   { name: 'Ashwin Ganapathi', role: 'Junior Officer', desc: 'N/A', img: 'AG' },
   { name: 'Shreyas Reddy', role: 'Vice lead', desc: 'N/A', img: 'SR' }
 ];
